@@ -135,7 +135,7 @@ modules: [
     </tr>
     <tr>
       <td><code>useSkycons</code></td>
-      <td>Use animated "Skycons" icons<br>
+      <td>Use animated "Skycons" icons.<br>
           See the <a href="https://darkskyapp.github.io/skycons/">Skycons documentation</a> for more details.<br>
         <br><b>Default value:</b>  <code>false</code>
       </td>
