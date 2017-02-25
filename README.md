@@ -134,6 +134,13 @@ modules: [
       </td>
     </tr>
     <tr>
+      <td><code>useSkycons</code></td>
+      <td>Use animated "Skycons" icons<br>
+          See the <a href="https://darkskyapp.github.io/skycons/">Skycons documentation</a> for more details.<br>
+        <br><b>Default value:</b>  <code>false</code>
+      </td>
+    </tr>
+    <tr>
       <td><code>iconTable</code></td>
       <td>The conversion table to convert the weather conditions to weather-icons.<br>
         <br><b>Default value:</b><pre>iconTable: {
