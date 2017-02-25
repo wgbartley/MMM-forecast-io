@@ -129,7 +129,7 @@ Module.register("MMM-forecast-io", {
     }
 
     if (this.geoLocationLookupFailed) {
-      wrapper.innerHTML = "Geolocaiton lookup failed, please set <i>latitude</i> and <i>longitude</i> in the config for module: " + this.name + ".";
+      wrapper.innerHTML = "Geolocation lookup failed, please set <i>latitude</i> and <i>longitude</i> in the config for module: " + this.name + ".";
       wrapper.className = "dimmed light small";
       return wrapper;
     }
